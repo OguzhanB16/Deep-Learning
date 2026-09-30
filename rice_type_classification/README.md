@@ -34,5 +34,7 @@ To run or examine the project on your local environment, follow these steps:
 4.Launch Jupyter Notebook and open the project file:
   jupyter notebook rice_type_classification.ipynb
 
+  Results:
+
 <img width="1321" height="487" alt="image" src="https://github.com/user-attachments/assets/87e77e6f-fb9c-4b48-a542-ecd4b1a8e5cd" />
 
