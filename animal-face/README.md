@@ -29,7 +29,7 @@ The model is trained on the [Animal Faces-HQ (AFHQ)](https://github.com/clovaai/
 ## ⚙️ Installation and Usage
 
 **1. Clone the Repository:**
-git clone [https://github.com/YOUR_USERNAME/your-repo-name.git](https://github.com/YOUR_USERNAME/your-repo-name.git)
+git clone https://github.com/OguzhanB16/Deep-Learning.git
 cd your-repo-name
 
 **2. Install Required Libraries:**
